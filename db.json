@@ -1,17 +1,17 @@
 [
     {
       "id": 1,
-      "title": "Asus Zenbook pro",
-      "img": "https://www.asus.com/media/Odin/Websites/global/Series/9.png",
-      "price": 84910,
+      "title": "Asus Laptop",
+      "img": "https://m.media-amazon.com/images/I/718-NoktzDL._SX679_.jpg",
+      "price": 59910,
       "ratings": 4,
       "description": "Whether it's working on a presentation, streaming movies and music, or playing games, the Asus ZenBook Pro 15 is your ideal companion for work or play. Featuring an awe-inspiring design, the NanoEdge 4K UHD Ultraslim-bezel Display, an 8th Generation Intel Core i9 hexa-core processor, and a powerful Li-ion battery, this laptop brings to you the best of both worlds in terms of style and performance."
     },
     {
       "id": 2,
-      "title": "Sony PlayStation 5",
-      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1610107735/Croma%20Assets/Gaming/Gaming%20Consoles/Images/231643_eezzze.png/mxw_640,f_auto",
-      "price": 45290,
+      "title": "X Box",
+      "img": "https://m.media-amazon.com/images/I/61-jjE67uqL._SX679_.jpg",
+      "price": 55290,
       "ratings": 3,
       "description": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback1, adaptive triggers1 and 3D Audio*, and an all-new generation of incredible PlayStation games."
     },
@@ -105,9 +105,9 @@
     },
     {
       "id": 14,
-      "title": "Philips air fryer",
-      "img": "https://images.philips.com/is/image/philipsconsumer/ca545656e87d4df4bb17ad1e00b1dfe8",
-      "price": 8900,
+      "title": "Philips Trimmer",
+      "img": "https://m.media-amazon.com/images/I/31vtP56Cy-L._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": 2197,
       "ratings": 4,
       "description": "This cooking appliance features a Detachable Non-stick Basket and Pan for your convenience, a Fast Air Circulation Technology for quick and even cooking, and Adjustable Temperature and Time functions to cook as per your preferences.."
     },
